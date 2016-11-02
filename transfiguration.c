@@ -1,3 +1,10 @@
+// --------------------------------------------
+// Special thanks to...
+// @tiraniddo for the idea and research
+// 0xlukej for incognito
+// @Cneelis for all the help, ideas, and time!
+// This is beerware =]
+// --------------------------------------------
 #include "windows.h"
 #include "stdio.h"
 #include "ntsecapi.h"
